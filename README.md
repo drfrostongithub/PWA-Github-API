@@ -3,6 +3,9 @@
 > Consuming Github API Using VueJS PWA
 
 ## Build Setup
+Deployed on : https://vue-pwa-github-api.herokuapp.com/#/
+
+## Build Setup
 
 ``` bash
 # install dependencies
