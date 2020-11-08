@@ -4,7 +4,7 @@
       <span>Vue.js PWA</span>
     </header>
     <main>
-      <img src="./assets/logo.png" alt="Vue.js PWA">
+      <img src="./assets/git.png" alt="GIT PWA" class="logo">
       <router-view></router-view>
     </main>
   </div>
@@ -19,6 +19,10 @@ export default {
 <style>
 body {
   margin: 0;
+}
+
+.logo {
+  height: 100px;
 }
 
 #app {
