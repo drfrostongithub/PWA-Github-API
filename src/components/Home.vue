@@ -19,7 +19,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'VueJS PWA consuming Github API',
+      msg: 'Search Github ID',
       username: '',
       user: null
     }
